@@ -1,0 +1,4 @@
+linguist-language=JavaScript
+build/css/* linguist-vendored
+static/* linguist-vendored
+linguist-language=JavaScript
