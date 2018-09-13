@@ -87,6 +87,11 @@
 * Layout with the grid
 * Styling content
 * Building and laying out forms
+
+> Screenshot of "Full Stack Conf" webpage. Bootstrap components.
+
+![attached_screenshot_ of_ passed_materials - bootstrap components](img_final_scrn/bootstrap_4_components.jpg)    <br/><br/>
+
 - - -
 **16. Introduction to Front End Performance Optimization** :heavy_check_mark:
 * Performance measurement
