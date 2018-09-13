@@ -93,12 +93,30 @@
 * Attribute selectors
 * Advanced pseudo-classes
 * Pseudo-elements
+
+> Screenshot of "My Gallery"  webpage created with CSS Selectors.
+
+![attached screenshot of passed materials - webpage with CSS Selectors](img_final_scrn/css_selectors_advanced_1.jpg)    <br/><br/>
+
+> Screenshot of "Contact Form" webpage created with CSS Selectors.
+
+![attached screenshot of passed materials - contact form with CSS Selectors](img_final_scrn/css_selectors_attribute_1.jpg)    <br/><br/>
+
+> Screenshot of "Contact Form" with reset button, webpage created with CSS Selectors.
+
+![attached screenshot of passed materials - contact form with CSS Selectors](img_final_scrn/css_selectors_basics_2.jpg)    <br/><br/>
+
 - - -
 **14. jQuery Basics** :heavy_check_mark:
 * Event handling
 * Manipulating the DOM
 * DOM Traversal
 * jQuery Collections
+
+> Screenshot of "jQuery Weekly" webpage created with jQuery.
+
+![attached screenshot of passed materials - webpage with jQuery](img_final_scrn/jq_collections.jpg)    <br/><br/>
+
 - - -
 **15. Bootstrap 4 Basics** :heavy_check_mark:
 * Working with components
