@@ -67,6 +67,11 @@
 * Select menus
 * Radio buttons
 * Checkboxes
+
+> Screenshot of "Sign up form" responsive webpage created with HTML forms.
+
+![attached screenshot of passed materials - responsive webpage with HTML forms](img_final_scrn/html_forms.jpg)    <br/><br/>
+
 - - -
 **10. Introduction to Git** :heavy_check_mark:
 * Git basics
@@ -114,6 +119,11 @@
 **17. HTML Tables** :heavy_check_mark:
 * Table elements
 * Organizing tables
+
+> Screenshot of "Employee information" webpage created with HTML tables.
+
+![attached screenshot of passed materials - webpage with HTML tables](img_final_scrn/html_tables.jpg)    <br/><br/>
+
 - - -
 **18. HTML Video and Audio** :heavy_check_mark:
 * Video element
