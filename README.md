@@ -82,6 +82,11 @@
 * Arrays
 * Objects
 * DRY Programming
+
+> Screenshot of "Color Blocks" webpage created with JS loops.
+
+![attached screenshot of passed materials - webpage color blocks](img_final_scrn/js_loops.jpg)    <br/><br/>
+
 - - -
 **12. JavaScript and the DOM** :heavy_check_mark:
 * What is the DOM?
@@ -117,6 +122,10 @@
 
 ![attached screenshot of passed materials - webpage with jQuery](img_final_scrn/jq_collections.jpg)    <br/><br/>
 
+> Screenshot of "Blog Post" webpage animation created with jQuery.
+
+![attached screenshot of passed materials - animation with jQuery](img_final_scrn/jquery_animation_elements.jpg)    <br/><br/>
+
 - - -
 **15. Bootstrap 4 Basics** :heavy_check_mark:
 * Working with components
@@ -147,6 +156,11 @@
 * Video element
 * Audio element
 * Custom media players
+
+> Screenshot of "HTML Video and Audio"  webpage.
+
+![attached screenshot of passed materials - webpage with Video element](img_final_scrn/video_html.jpg)    <br/><br/>
+
 - - -
 **19. Create a Media Player with MediaElements.js** :heavy_check_mark:
 * MediaElement.js basics
