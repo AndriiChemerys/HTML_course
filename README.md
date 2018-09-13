@@ -47,6 +47,19 @@
 * Understanding Flexbox
 * Flexbox Properties
 * Building a Layout with Flexbox
+
+> Screenshot of "Best City Giude" responsive webpage created with CSS Flexbox on large screen.
+
+![attached screenshot of passed materials - responsive webpage with CSS Flexbox 1](img_final_scrn/css_flexbox_1.jpg)    <br/><br/>
+
+> Screenshot of "Best City Giude" responsive webpage created with CSS Flexbox on medium screen.
+
+![attached screenshot of passed materials - responsive webpage with CSS Flexbox 2](img_final_scrn/css_flexbox_2b.jpg)    <br/><br/>
+
+> Screenshot of "Best City Giude" responsive webpage created with CSS Flexbox on smaller screen.
+
+![attached screenshot of passed materials - responsive webpage with CSS Flexbox 3](img_final_scrn/css_flexbox_3b.jpg)    <br/><br/>
+
   - - -
 **9. HTML Forms** :heavy_check_mark:
 * Forms
@@ -88,7 +101,7 @@
 * Styling content
 * Building and laying out forms
 
-> Screenshot of "Full Stack Conf" webpage. Bootstrap components.
+> Screenshot of "Full Stack Conf" webpage created with bootstrap components.
 
 ![attached_screenshot_ of_ passed_materials - bootstrap components](img_final_scrn/bootstrap_4_components.jpg)    <br/><br/>
 
