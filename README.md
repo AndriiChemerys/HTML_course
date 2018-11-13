@@ -105,7 +105,7 @@
 
 > Screenshot of "Contact Form" webpage created with CSS Selectors.
 
-![attached screenshot of passed materials - contact form with CSS Selectors](img_final_scrn/css_selectors_attribute_1.jpg)    <br/><br/>
+![attached screenshot of passed materials - contact form with CSS Selectors](front-end_treehouse_course/img_final_scrn/css_selectors_attribute_1.jpg)    <br/><br/>
 
 > Screenshot of "Contact Form" with reset button, webpage created with CSS Selectors.
 
