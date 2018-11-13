@@ -178,7 +178,7 @@
 * ES2015 Class syntax
 * Constructors, getters, and setters
 - - -
-**22. Web Accessibility Compliance**
+**22. Web Accessibility Compliance** :heavy_check_mark:
 * Accessibility at a Glance
 * NonVisual Desktop Access
 * WCAG 2.0
@@ -186,7 +186,7 @@
 * WAI-ARIA
 * Testing for Accessibility
 - - -
-**23. Website Optimization**
+**23. Website Optimization** :heavy_check_mark:
 * Overview of the Chrome DevTools
 * Website optimization using the Chrome DevTools
 * Code debugging with the Chrome DevTools
