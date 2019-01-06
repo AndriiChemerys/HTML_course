@@ -24,6 +24,9 @@ function addItems() {
   createItem(650, 250, 'coin');
   createItem(225, 200, 'coin');
   createItem(375, 100, 'poison');
+  createItem(370,500,'poison');
+  createItem(100, 375, 'poison');
+  createItem(125, 50, 'star');
 }
 
 // add platforms to the game
@@ -39,6 +42,7 @@ function addPlatforms() {
   platforms.create(550, 200, 'platform2');
   platforms.create(300, 450, 'platform2');
   platforms.create(400, 350, 'platform2');
+  platforms.create(100, 100, 'platform2');
   platforms.setAll('body.immovable', true);
 }
 
@@ -60,7 +64,13 @@ function createBadge() {
 // when the player collects an item on the screen
 function itemHandler(player, item) {
   item.kill();
-  currentScore = currentScore + 10;
+  if (item.key === 'coin') {
+     currentScore = currentScore + 10;
+  } else if (item.key === 'poison') {
+     currentScore = currentScore - 25;
+  } else if (item.key === 'star') {
+     currentScore = currentScore + 25;
+  }
   if (currentScore === winningScore) {
       createBadge();
   }
@@ -82,12 +92,14 @@ window.onload = function () {
     
     //Load images
     game.load.image('platform', 'platform_1.png');
-    game.load.image('platform', 'platform_2.png');
+    game.load.image('platform2', 'platform_2.png');
     
     //Load spritesheets
     game.load.spritesheet('player', 'chalkers.png', 48, 62);
     game.load.spritesheet('coin', 'coin.png', 36, 44);
     game.load.spritesheet('badge', 'badge.png', 42, 54);
+    game.load.spritesheet('poison', 'poison.png', 32, 32);
+    game.load.spritesheet('star', 'star.png', 32, 32);
   }
 
   // initial game set up
