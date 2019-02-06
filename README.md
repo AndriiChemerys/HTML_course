@@ -50,7 +50,9 @@
 
 > Screenshot of "Best City Giude" responsive webpage created with CSS Flexbox on large screen.
 
-![attached screenshot of passed materials - responsive webpage with CSS Flexbox 1](front-end_treehouse_course/img_final_scrn/css_flexbox_1.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - responsive webpage with CSS Flexbox 1" src="front-end_treehouse_course/img_final_scrn/css_flexbox_1.jpg" 
+width="50%">
+<br/><br/>
 
 > Screenshot of "Best City Giude" responsive webpage created with CSS Flexbox on medium screen.
 
@@ -58,7 +60,8 @@
 
 > Screenshot of "Best City Giude" responsive webpage created with CSS Flexbox on smaller screen.
 
-![attached screenshot of passed materials - responsive webpage with CSS Flexbox 3](front-end_treehouse_course/img_final_scrn/css_flexbox_3b.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - responsive webpage with CSS Flexbox 3" src="front-end_treehouse_course/img_final_scrn/css_flexbox_3b.jpg" 
+width="50%"> <br/><br/>
 
   - - -
 **9. HTML Forms** :heavy_check_mark:
@@ -70,7 +73,8 @@
 
 > Screenshot of "Sign up form" responsive webpage created with HTML forms.
 
-![attached screenshot of passed materials - responsive webpage with HTML forms](front-end_treehouse_course/img_final_scrn/html_forms.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - responsive webpage with HTML forms" src="front-end_treehouse_course/img_final_scrn/html_forms.jpg" 
+width="50%"><br/><br/>
 
 - - -
 **10. Introduction to Git** :heavy_check_mark:
@@ -85,7 +89,8 @@
 
 > Screenshot of "Color Blocks" webpage created with JS loops.
 
-![attached screenshot of passed materials - webpage color blocks](front-end_treehouse_course/img_final_scrn/js_loops.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - webpage color blocks" src="front-end_treehouse_course/img_final_scrn/js_loops.jpg" 
+width="50%"><br/><br/>
 
 - - -
 **12. JavaScript and the DOM** :heavy_check_mark:
@@ -101,15 +106,18 @@
 
 > Screenshot of "My Gallery"  webpage created with CSS Selectors.
 
-![attached screenshot of passed materials - webpage with CSS Selectors](front-end_treehouse_course/img_final_scrn/css_selectors_advanced_1.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - webpage with CSS Selectors" src="front-end_treehouse_course/img_final_scrn/css_selectors_advanced_1.jpg" 
+width="50%"><br/><br/>
 
 > Screenshot of "Contact Form" webpage created with CSS Selectors.
 
-![attached screenshot of passed materials - contact form with CSS Selectors](front-end_treehouse_course/img_final_scrn/css_selectors_attribute_1.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - contact form with CSS Selectors" src="front-end_treehouse_course/img_final_scrn/css_selectors_attribute_1.jpg" 
+width="50%"><br/><br/>
 
 > Screenshot of "Contact Form" with reset button, webpage created with CSS Selectors.
 
-![attached screenshot of passed materials - contact form with CSS Selectors](front-end_treehouse_course/img_final_scrn/css_selectors_basics_2.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - contact form with CSS Selectors" src="front-end_treehouse_course/img_final_scrn/css_selectors_basics_2.jpg" 
+width="50%"><br/><br/>
 
 - - -
 **14. jQuery Basics** :heavy_check_mark:
