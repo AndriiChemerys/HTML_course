@@ -51,17 +51,18 @@
 > Screenshot of "Best City Giude" responsive webpage created with CSS Flexbox on large screen.
 
 <img alt="attached screenshot of passed materials - responsive webpage with CSS Flexbox 1" src="front-end_treehouse_course/img_final_scrn/css_flexbox_1.jpg" 
-width="50%">
+width="60%">
 <br/><br/>
 
 > Screenshot of "Best City Giude" responsive webpage created with CSS Flexbox on medium screen.
 
-![attached screenshot of passed materials - responsive webpage with CSS Flexbox 2](front-end_treehouse_course/img_final_scrn/css_flexbox_2b.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - responsive webpage with CSS Flexbox 2" src="front-end_treehouse_course/img_final_scrn/css_flexbox_2b.jpg" 
+width="35%"> <br/><br/>
 
 > Screenshot of "Best City Giude" responsive webpage created with CSS Flexbox on smaller screen.
 
 <img alt="attached screenshot of passed materials - responsive webpage with CSS Flexbox 3" src="front-end_treehouse_course/img_final_scrn/css_flexbox_3b.jpg" 
-width="50%"> <br/><br/>
+width="25%"> <br/><br/>
 
   - - -
 **9. HTML Forms** :heavy_check_mark:
@@ -74,7 +75,7 @@ width="50%"> <br/><br/>
 > Screenshot of "Sign up form" responsive webpage created with HTML forms.
 
 <img alt="attached screenshot of passed materials - responsive webpage with HTML forms" src="front-end_treehouse_course/img_final_scrn/html_forms.jpg" 
-width="50%"><br/><br/>
+width="60%"><br/><br/>
 
 - - -
 **10. Introduction to Git** :heavy_check_mark:
@@ -90,7 +91,7 @@ width="50%"><br/><br/>
 > Screenshot of "Color Blocks" webpage created with JS loops.
 
 <img alt="attached screenshot of passed materials - webpage color blocks" src="front-end_treehouse_course/img_final_scrn/js_loops.jpg" 
-width="50%"><br/><br/>
+width="60%"><br/><br/>
 
 - - -
 **12. JavaScript and the DOM** :heavy_check_mark:
@@ -107,17 +108,17 @@ width="50%"><br/><br/>
 > Screenshot of "My Gallery"  webpage created with CSS Selectors.
 
 <img alt="attached screenshot of passed materials - webpage with CSS Selectors" src="front-end_treehouse_course/img_final_scrn/css_selectors_advanced_1.jpg" 
-width="50%"><br/><br/>
+width="60%"><br/><br/>
 
 > Screenshot of "Contact Form" webpage created with CSS Selectors.
 
 <img alt="attached screenshot of passed materials - contact form with CSS Selectors" src="front-end_treehouse_course/img_final_scrn/css_selectors_attribute_1.jpg" 
-width="50%"><br/><br/>
+width="25%"><br/><br/>
 
 > Screenshot of "Contact Form" with reset button, webpage created with CSS Selectors.
 
 <img alt="attached screenshot of passed materials - contact form with CSS Selectors" src="front-end_treehouse_course/img_final_scrn/css_selectors_basics_2.jpg" 
-width="50%"><br/><br/>
+width="25%"><br/><br/>
 
 - - -
 **14. jQuery Basics** :heavy_check_mark:
@@ -128,11 +129,13 @@ width="50%"><br/><br/>
 
 > Screenshot of "jQuery Weekly" webpage created with jQuery.
 
-![attached screenshot of passed materials - webpage with jQuery](front-end_treehouse_course/img_final_scrn/jq_collections.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - webpage with jQuery" src="front-end_treehouse_course/img_final_scrn/jq_collections.jpg" 
+width="60%"><br/><br/>
 
 > Screenshot of "Blog Post" webpage animation created with jQuery.
 
-![attached screenshot of passed materials - animation with jQuery](front-end_treehouse_course/img_final_scrn/jquery_animation_elements.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - animation with jQuery" src="front-end_treehouse_course/img_final_scrn/jquery_animation_elements.jpg" 
+width="60%"><br/><br/>
 
 - - -
 **15. Bootstrap 4 Basics** :heavy_check_mark:
@@ -143,7 +146,8 @@ width="50%"><br/><br/>
 
 > Screenshot of "Full Stack Conf" webpage created with bootstrap components.
 
-![attached_screenshot_ of_ passed_materials - bootstrap components](front-end_treehouse_course/img_final_scrn/bootstrap_4_components.jpg)    <br/><br/>
+<img alt="attached_screenshot_ of_ passed_materials - bootstrap components" src="front-end_treehouse_course/img_final_scrn/bootstrap_4_components.jpg" 
+width="60%"><br/><br/>
 
 - - -
 **16. Introduction to Front End Performance Optimization** :heavy_check_mark:
@@ -157,7 +161,8 @@ width="50%"><br/><br/>
 
 > Screenshot of "Employee information" webpage created with HTML tables.
 
-![attached screenshot of passed materials - webpage with HTML tables](front-end_treehouse_course/img_final_scrn/html_tables.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - webpage with HTML tables" src="front-end_treehouse_course/img_final_scrn/html_tables.jpg" 
+width="60%"><br/><br/>
 
 - - -
 **18. HTML Video and Audio** :heavy_check_mark:
@@ -167,7 +172,8 @@ width="50%"><br/><br/>
 
 > Screenshot of "HTML Video and Audio"  webpage.
 
-![attached screenshot of passed materials - webpage with Video element](front-end_treehouse_course/img_final_scrn/video_html.jpg)    <br/><br/>
+<img alt="attached screenshot of passed materials - webpage with Video element" src="front-end_treehouse_course/img_final_scrn/video_html.jpg" 
+width="60%"><br/><br/>
 
 - - -
 **19. Create a Media Player with MediaElements.js** :heavy_check_mark:
