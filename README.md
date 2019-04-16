@@ -1,5 +1,5 @@
 - - -
-# Front End Web Development course at Treehouse. :heavy_check_mark:
+### Front End Web Development course at Treehouse. :heavy_check_mark:
 - - -
 **1. Introduction to HTML and CSS**  :heavy_check_mark:
 * Define HTML and CSS
